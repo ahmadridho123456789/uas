@@ -21,10 +21,10 @@ __Daftar_nilai.py  yang digunakan  untuk:__
  **input_nilai.py yang digunakan untuk** 
 - input_data (yang meminta pengguna memasukkan data).
 
- ## __main.py berisi program utama__ 
+ ## **_main.py_ berisi program utama**
  - (_menu pilihan yang memanggil semua menu yang tersedia_ ).
 
-## **Berikut Tampilan hasil dari Program nya**
+## **Berikut Tampilan dari hasil  Program nya**
 
 ### __1. Tambah Data__
 ![Tambah_Data](image/tambah.png)
