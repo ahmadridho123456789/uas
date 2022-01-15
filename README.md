@@ -14,10 +14,11 @@ __Daftar_nilai.py  yang digunakan  untuk:__
  - Cari Data
 
 ## __di file _view_ berisi__ :
-  ### **_view_nilai.py_ yang digunakan  untuk**
+  **view_nilai.py  yang digunakan  untuk**
 - cetak_daftar_nilai
 -  cetak_hasil_pencarian
-### **__input_nilai.py__ yang digunakan untuk** 
+
+ **input_nilai.py yang digunakan untuk** 
 - input_data (yang meminta pengguna memasukkan data).
 
  ## __main.py berisi program utama__ 
